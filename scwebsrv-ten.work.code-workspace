@@ -1,0 +1,8 @@
+{
+	"folders": [
+		{
+			"name": "SSH FS - scwebsrv-ten",
+			"uri": "ssh://scwebsrv-ten/var/www/vhosts/scwebsrv-ten.work"
+		}
+	]
+}
